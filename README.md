@@ -1,1 +1,1 @@
-*lyric-romanizer*
+# lyric-romanizer
